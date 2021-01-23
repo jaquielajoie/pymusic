@@ -1,0 +1,6 @@
+fluidsynth==0.2
+future==0.18.2
+midi2audio==0.1.1
+mido==1.2.0
+pyFluidSynth==1.2.5
+python-rtmidi==1.4.5
